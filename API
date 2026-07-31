@@ -1,0 +1,87 @@
+# 🌐 API Basics
+
+> A beginner-friendly introduction to APIs.
+
+---
+
+# 📖 What is an API?
+
+**API** stands for **Application Programming Interface**.
+
+An API is a bridge that allows two software applications to communicate and exchange data with each other.
+
+Think of it as a **messenger** that takes a request from one application to another and brings back the response.
+
+---
+
+# 💡 Why Do We Need APIs?
+
+APIs help applications:
+
+- Share data
+- Communicate with other software
+- Reuse existing services
+- Save development time
+- Connect different platforms
+
+Examples:
+
+- Login with Google
+- Google Maps
+- Weather apps
+- Online payment gateways
+- Social media integrations
+
+---
+
+# ⚙️ How an API Works
+
+```
+Client
+   │
+   ▼
+API Request
+   │
+   ▼
+Server
+   │
+Processes Request
+   │
+   ▼
+API Response
+   │
+   ▼
+Client
+```
+
+### Steps
+
+1. The client sends a request.
+2. The API forwards the request to the server.
+3. The server processes the request.
+4. The server sends a response.
+5. The client displays the result.
+
+---
+
+# 🍽️ Real-Life Example
+
+Imagine you're in a restaurant.
+
+- 👤 Customer → Client
+- 🧑‍🍳 Kitchen → Server
+- 🧑‍💼 Waiter → API
+- 🍕 Food → Response
+
+The waiter takes your order to the kitchen and brings your food back.
+
+Similarly, an API carries requests and responses between applications.
+
+---
+
+# 🌍 Real-World Examples of APIs
+
+| API | Purpose |
+|------|---------|
+| Google Maps API | Show maps and directions |
+| Weather API
